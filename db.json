@@ -1,26 +1,28 @@
-[
-  {
-    "email": "test@hotmail.com",
-    "password": "test12345",
-    "name": "test1",
-    "surname": "test1",
-    "dateOfBirth": "1979-01-23",
-    "marketing": false
-  },
-  {
-    "email": "test2@gmail.com",
-    "password": "test123456",
-    "name": "test2",
-    "surname": "test2",
-    "dateOfBirth": "1979-09-20",
-    "marketing": true
-  },
-  {
-    "email": "test3@yahoo.com",
-    "password": "test1234567",
-    "name": "test3",
-    "surname": "test3",
-    "dateOfBirth": "1989-10-12",
-    "marketing": false
-  }
-]
+{
+  "users": [
+    {
+      "email": "test@hotmail.com",
+      "password": "test12345",
+      "name": "test1",
+      "surname": "test1",
+      "dateOfBirth": "1979-01-23",
+      "marketing": false
+    },
+    {
+      "email": "test2@gmail.com",
+      "password": "test123456",
+      "name": "test2",
+      "surname": "test2",
+      "dateOfBirth": "1979-09-20",
+      "marketing": true
+    },
+    {
+      "email": "test3@yahoo.com",
+      "password": "test1234567",
+      "name": "test3",
+      "surname": "test3",
+      "dateOfBirth": "1989-10-12",
+      "marketing": false
+    }
+  ]
+}
